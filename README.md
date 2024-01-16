@@ -1,2 +1,2 @@
 # red-light
-HTML, CSS AND JAVASCRIPT
+HTML, CSS 
